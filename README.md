@@ -9,7 +9,7 @@ Ce projet est une application de simulation d'examen pour la certification Micro
 Mercredi 12 Juin 2024
   
 ## Code original par
-Renaud Marchal
+- **Renaud Marchal**
 
 ## Description
 Ce programme permet de passer une simulation d'examen en répondant à une série de questions de manière interactive. Les questions sont lues depuis un fichier JSON et affichées à l'utilisateur via une interface graphique réalisée avec Tkinter.
